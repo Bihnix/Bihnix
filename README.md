@@ -1,10 +1,4 @@
- ## I'm happy that you are here to know me more!:point_down:
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/48855903/134536866-9dc48f3b-772b-4e22-ae90-6d95b66ba12f.jpg)
-</h3> -->
-
-![fab-lentz-mRMQwK513hY-unsplash](https://user-images.githubusercontent.com/48855903/134700117-67b9fbd0-0076-4afd-a056-31083b6467d3.jpg)
-
+ 
 ## Things I code with
 <P>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
